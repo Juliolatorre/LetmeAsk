@@ -7,10 +7,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="Podcastr" src="https://i.imgur.com/Wse3SSO.png" width="300px">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
