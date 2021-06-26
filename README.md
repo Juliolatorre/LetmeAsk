@@ -11,12 +11,20 @@
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  - [📖 Sobre](#-sobre)
+- [🚀 Tecnologias utilizadas](#-tecnologias-utilizadas) 
 </p>
 
 <br>
+
+## 📖 Sobre 
+
+Este é um projeto desenvolvido durante a **[Next Level Week #6](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 20 a 27 de Junho de 2021.
+
+O projeto que será desenvolvido é uma aplicação que permite a partir de Lives criar salas de Questions&Answer(Perguntas e Respostas) Ao-vivo.
+Tirando assim as dúvidas da sua audiência em tempo-real, precisando apenas se logar através de um email válido e com esse login, poderá criar salas para perguntas e respostas de determinado assunto ou entrar em uma sala já existente. Temos também a possibilidade de dar likes nas perguntas criadas e o painel do Admin com a funcionalidade de excluir ou finalizar perguntas respondidas.
+
+--- 
 
 ## 🚀 Tecnologias
 
