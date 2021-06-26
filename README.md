@@ -8,13 +8,6 @@
   <img alt="letmeask" src="https://i.imgur.com/1huwahZ.png" width="300px">
 </p>
 
-
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  - [📖 Sobre](#-sobre)
-- [🚀 Tecnologias utilizadas](#-tecnologias-utilizadas) 
-</p>
-
 <br>
 
 ## 📖 Sobre 
