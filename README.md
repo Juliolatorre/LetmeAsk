@@ -79,7 +79,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Juliolatorre/LetmeAsk/blob/master/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Juliolatorre/LetmeAsk/blob/master/LICENSE.md) para mais detalhes.
 
 ---
 
